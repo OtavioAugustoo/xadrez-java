@@ -44,7 +44,7 @@ Este projeto implementa um jogo de xadrez simplificado utilizando Java, estrutur
 
 ## 📷 Captura de Tela
 
-> (adicione aqui uma imagem do tabuleiro se desejar)
+> ![alt text](image.png)
 
 ---
 
